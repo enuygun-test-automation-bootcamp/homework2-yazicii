@@ -1,5 +1,5 @@
 # homework2
-## JUnit nedir?
+## Junit nedir?
 Java tabanlı kodların test edilmesi için kullanılan bir Unit Test – Birim Testi kütüphanesidir.
 Junit kütüphanesi projemize pom.xml dosyasına eklenerek kullanılır.
 ```<dependency>
